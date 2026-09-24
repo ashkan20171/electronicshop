@@ -1,41 +1,35 @@
-# Electronic Shop (Frontend Template)
+# Ashkan Electronics
 
-A responsive, clean, and modern frontend template for an electronic e-commerce store, built entirely with **HTML5** and **CSS3**.
+Modern RTL electronics shop front-end built with HTML, CSS and vanilla JavaScript.
 
-## 📖 Overview
+## Features
+- Responsive modern storefront
+- Product search and cards
+- Cart counter persisted in localStorage
+- Product comparison page
+- Product detail page
+- Login / registration demo
+- Rule-based smart shopping assistant UI (front-end demo)
+- SEO metadata, JSON-LD, robots.txt and sitemap.xml
+- Accessible labels, semantic HTML and lazy-loaded images
 
-The Electronic Shop is a static website template designed to showcase electronics and gadgets. This project demonstrates foundational frontend development skills, including structural layout, responsive design, and CSS styling techniques.
+Open `index.html` in a browser. No build step is required.
 
-It focuses on:
-- Semantic HTML5 structure
-- Responsive layouts using Flexbox/CSS Grid
-- Modern and clean UI design principles
-- Cross-device compatibility
+## Advanced Commerce v3
+- Multi-step checkout (address, shipping, payment, confirmation)
+- User dashboard, profile and order history
+- Advanced catalog filters, sorting and grid/list view
+- Search autocomplete / suggestions
+- Dynamic compare up to 4 products
+- Product gallery with hover zoom and thumbnails
+- Ratings and review UI
+- Recently viewed products via localStorage
+- Coupon system (demo: ASHKAN10)
+- Notification drawer
+- Mega menu
+- Quantity selector, stock and trust badges
+- Loyalty points / customer dashboard widgets
+- Persistent compare, recent products, coupon and profile demo data
+- Responsive advanced layouts
 
-## ✨ Key Features
-
-- **Product Catalog Layout:** Clean presentation of electronic products.
-- **Responsive Navigation:** Adaptable menu for mobile and desktop screens.
-- **Modern Styling:** Use of CSS for a professional e-commerce look and feel.
-- **Clean Structure:** Well-organized HTML markup for better maintainability.
-
-## 🛠️ Tech Stack
-
-- **Markup:** HTML5
-- **Styling:** CSS3 (Custom CSS)
-- **Design:** Mobile-first approach
-
-## 🧠 What This Project Showcases
-
-- **Frontend Foundations:** Understanding of how to structure a webpage from scratch without relying on frameworks.
-- **CSS Proficiency:** Skill in layout management and responsive design using native CSS tools.
-- **UI Design Awareness:** Ability to create a user-friendly shopping experience.
-
-## 💻 How to View
-
-Since this is a static website, you can simply open the files in your browser:
-
-1. Clone the repository:
-```bash
-   git clone https://github.com/ashkan20171/electronicshop.git
-   
+Note: Authentication, payments, inventory, order processing and AI responses are frontend demos and require a backend/API for production use.
